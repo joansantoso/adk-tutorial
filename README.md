@@ -49,6 +49,8 @@ You can interact with the agent through a simple command-line interface or a web
 
 ---
 
+**For more information you can loot at this article: [https://medium.com/@joansantoso/research-assistant-agent-development-using-google-agent-development-kit-27b5349cbfce]**
+
 ## Resources 📚
 
 * **Google Agent Development Kit (ADK) Documentation:** [https://google.github.io/adk-docs/](https://google.github.io/adk-docs/)
