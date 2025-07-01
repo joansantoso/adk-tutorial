@@ -35,7 +35,7 @@ To get started with this project, you'll need to have the following installed:
 
 1.  Clone this repository:
     ```bash
-    git clone https://github.com/joansantoso/adk-tutorial.git
+    git clone [https://github.com/joansantoso/google-adk-tutorial-workshop]
     ```
 2.  Install the required packages:
     ```bash
