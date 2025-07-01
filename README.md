@@ -1,4 +1,4 @@
-# adk-tutorial
+# google-adk-tutorial
 # Research Assistant Agent 🕵️‍♀️
 This talk already I deliver at some event at Build with AI 2025 in Indonesia. I deliver this example as an talk session and workshop.
 This project is a **Research Assistant Agent** built using the **Google Agent Development Kit (ADK)**. It's designed to help you with your research tasks by automating the process of gathering and summarizing information from paper that obtained that relates to the keyword given.
@@ -68,3 +68,6 @@ Contributions are welcome! If you have any ideas, suggestions, or bug reports, p
 ## License 📝
 
 This project is licensed under the Apache 2.0 License - see the LICENSE file for details.
+
+## Support
+Google Cloud credits are provided for this project. #AISprint
